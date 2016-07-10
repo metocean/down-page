@@ -3,7 +3,7 @@ body {
 }
 .container {
   text-align: center;
-  background-image: url("ocean.png");
+  background-image: url("oceansmall.jpg");
   background-repeat:no-repeat;
   background-size: cover;
   height: 100%;
